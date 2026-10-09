@@ -1,0 +1,6 @@
+{
+  "name": "The Builder's Log",
+  "description": "Stories, ideas and lessons from people building with technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
